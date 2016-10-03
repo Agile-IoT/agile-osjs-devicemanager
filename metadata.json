@@ -1,0 +1,11 @@
+{
+  "className":  "AppAgileDeviceManagerInterface",
+  "name":       "Device Manager",
+  "description":"",
+  "mime":       null,
+  "category":   "development",
+  "icon": "",
+  "preload":    [
+    {"src": "main.js", "type": "javascript"}
+  ]
+}
